@@ -576,13 +576,6 @@ section {
         height: 25rem;
     }
 
-    .food-category {
-        overflow-y: scroll;
-    }
-
-    .food-category button {
-        width: max-content;
-    }
 
     .back-to-top {
         bottom: 6rem;
